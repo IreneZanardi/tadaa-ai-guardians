@@ -12,7 +12,6 @@ Through creative making, participants created **Guardians**: characters able to 
 
 The cards were developed as part of **[Tadaa](https://www.irenezanardi.com/tadaa/)**.
 
----
 
 ## Who is it for?
 
@@ -31,8 +30,6 @@ They can be used:
 - In group discussions
 - In research studies
 
----
-
 ## What's in the Card Set?
 
 The collection includes **five Guardian Cards**, each representing a value identified by teenagers during the workshops:
@@ -45,8 +42,6 @@ The collection includes **five Guardian Cards**, each representing a value ident
 | 🌍 Guardian IV | Openness & Diversity |
 | ⚖️ Guardian V | Realness & Balance |
 
----
-
 ## How to Use the Cards
 
 1. **Explore the five Guardians** and the values they represent.
@@ -54,8 +49,6 @@ The collection includes **five Guardian Cards**, each representing a value ident
 3. **Imagine alternatives** by considering what future technologies might look like if they actively protected these values.
 
 The cards can be used individually or as a group activity and require no preparation.
-
----
 
 ## Zenodo
 
@@ -75,22 +68,16 @@ Or:
 
 > Zanardi, I., Dedò, S., Landoni, M. (2026). *AI Guardian Cards: Teenagers' Values to Shape Future AI* (Version 1.0) [Card Set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
----
-
 ## Related Publication
 
 Zanardi, I., Dedò, S., Landoni, M. (2026). **Guardians Assemble! Teens' Imagination to Counter Algorithmic Villains**
 https://dl.acm.org/doi/10.1145/3803784.3809287
-
----
 
 ## License
 
 This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 You are free to share, adapt, and build upon the materials, provided that appropriate credit is given.
-
----
 
 ## Contact
 
