@@ -47,16 +47,6 @@ The collection includes **five Guardian Cards**, each representing a value ident
 
 ---
 
-## Repository Structure
-
-```text
-guardian-cards/
-├── guardian-cards.pdf
-└── print/
-```
-
----
-
 ## How to Use the Cards
 
 1. **Explore the five Guardians** and the values they represent.
