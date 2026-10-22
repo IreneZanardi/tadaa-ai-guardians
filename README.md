@@ -1,6 +1,6 @@
 # AI Guardian Cards
 
-<img width="1080" height="129" alt="ai-guardians-repo-banner" src="https://github.com/user-attachments/assets/64189317-4ec3-4363-ac81-a3da31e4f7d5" />
+<img width="1080" height="129" alt="ai-guardians-repo-banner" src="https://github.com/user-attachments/assets/222f393a-7548-459b-bf29-deefe9659510" />
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
