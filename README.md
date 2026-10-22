@@ -1,6 +1,4 @@
-# Guardian Cards
-
-> A card set that uses teenagers' visions to spark conversations about the values shaping future AI.
+# AI Guardian Cards
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -46,12 +44,6 @@ The collection includes **five Guardian Cards**, each representing a value ident
 | 🌍 Guardian IV | Openness & Diversity |
 | ⚖️ Guardian V | Realness & Balance |
 
-Each card includes:
-
-- 💎 The values the Guardian protects
-- ⚠️ The AI-related risks it responds to
-- 💭 Reflection and design questions to support conversations about responsible and desirable AI futures
-
 ---
 
 ## Repository Structure
@@ -81,8 +73,8 @@ If you use or adapt the Guardian Cards, please cite:
 ```bibtex
 @misc{zanardi2025guardiancards,
   author = {Zanardi, Irene},
-  title = {Guardian Cards: Using Teenagers' Visions to Spark Conversations About the Values Shaping Future AI},
-  year = {2025},
+  title = {AI Guardian Cards: Teenagers' Values to Shape Future AI},
+  year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.XXXXXXX}
 }
@@ -90,15 +82,14 @@ If you use or adapt the Guardian Cards, please cite:
 
 Or:
 
-> Zanardi, I. (2025). *Guardian Cards: Using teenagers' visions to spark conversations about the values shaping future AI* (Version 1.0) [Card Set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Zanardi, I., Dedò, S., Landoni, M. (2026). *AI Guardian Cards: Teenagers' Values to Shape Future AI* (Version 1.0) [Card Set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ---
 
 ## Related Publication
 
-**Guardians Assemble: Teens' Imagination to Counter Algorithmic Villains**
-
-https://dl.acm.org/doi/10.1145/3773077.3811879
+Zanardi, I., Dedò, S., Landoni, M. (2026). **Guardians Assemble! Teens' Imagination to Counter Algorithmic Villains**
+https://dl.acm.org/doi/10.1145/3803784.3809287
 
 ---
 
