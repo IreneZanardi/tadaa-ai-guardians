@@ -5,7 +5,7 @@
 
 ## About
 
-**The Guardian Cards** are a set of speculative design probes built from workshops in which teenagers imagined alternative futures for generative AI.
+**The AI Guardian Cards** are a set of speculative design probes built from workshops in which teenagers imagined alternative futures for generative AI.
 
 Through creative making, participants created **Guardians**: characters able to protect the values they considered important in a world increasingly shaped by AI. The cards bring these perspectives together into five value-driven Guardians.
 
