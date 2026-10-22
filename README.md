@@ -1,5 +1,3 @@
-# AI Guardian Cards
-
 <img width="1080" height="129" alt="ai-guardians-repo-banner" src="https://github.com/user-attachments/assets/222f393a-7548-459b-bf29-deefe9659510" />
 
 
