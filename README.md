@@ -60,17 +60,17 @@ If you use or adapt the Guardian Cards, please cite:
   title = {AI Guardian Cards: Teenagers' Values to Shape Future AI},
   year = {2026},
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.XXXXXXX}
+  doi = {10.5281/zenodo.23569204}
 }
 ```
 
 Or:
 
-> Zanardi, I., Dedò, S., Landoni, M. (2026). *AI Guardian Cards: Teenagers' Values to Shape Future AI* (Version 1.0) [Card Set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Zanardi, I. (2026). *AI Guardian Cards: Teenagers' Values to Shape Future AI* (Version 1.0) [Card Set]. Zenodo. DOI: 10.5281/zenodo.23569204
 
 ## Related Publication
 
-Zanardi, I., Dedò, S., Landoni, M. (2026). **Guardians Assemble! Teens' Imagination to Counter Algorithmic Villains**
+Zanardi, I., Dedò, S., Tobia, D. M., Landoni, M. (2026). *Guardians Assemble! Teens' Imagination to Counter Algorithmic Villains*
 https://dl.acm.org/doi/10.1145/3803784.3809287
 
 ## License
