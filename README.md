@@ -1,7 +1,7 @@
 <img width="1080" height="129" alt="ai-guardians-repo-banner" src="https://github.com/user-attachments/assets/222f393a-7548-459b-bf29-deefe9659510" />
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1429813881.svg)](https://doi.org/10.5281/zenodo.23569203)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## About
